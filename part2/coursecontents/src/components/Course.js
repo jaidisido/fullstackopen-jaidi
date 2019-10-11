@@ -8,7 +8,7 @@ const Course = ({course}) => {
             <Total parts={course.parts}/>
         </>
       )
- }
+}
  
 const Header = (props) => {
    return (
